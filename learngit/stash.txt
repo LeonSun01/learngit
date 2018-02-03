@@ -1,3 +1,5 @@
 say hellols
 hello!!!
 This statement is conflicting
+This is to test the branch remote connections
+>>>>>>> ce67f64db3efe10fe4fbba5bca5557929cd608bb
