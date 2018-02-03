@@ -1,7 +1,7 @@
 This is a Test for log command
 today, is i first day to learn git code
 append a word
-<<<<<<< HEAD
 hahahahha
 wangmeiqi pay for me 187$
 i added a statment again
+This is modified by son
